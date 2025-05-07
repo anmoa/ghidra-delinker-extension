@@ -20,6 +20,9 @@ jobs:
         ghidra:
           - "11.2"
           - "11.2.1"
+          - "11.3"
+          - "11.3.1"
+          - "11.3.2"
     steps:
       -
         name: "Collect test reports"
